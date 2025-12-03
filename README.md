@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://sanjeevkumar-eta.vercel.app/](https://sanjeevkumar-eta.vercel.app/)
-
+- 🔭 I’m currently working on Full-Stack Projects
+- 👯 I’m looking to collaborate on Front-end and Full-Stack Projects
+- 💬 Ask me about React.js
+- 👨‍💻 My featured projects are available at [https://sanjeevkumar-eta.vercel.app/](https://sanjeevkumar-eta.vercel.app/)
 - 📫 How to reach me **sanjeev.kumar@gmail.com**
 
+## About Me
+I’m a frontend developer who loves building fast, responsive, and user-centric web applications. I enjoy turning complex UI ideas into clean, scalable interfaces using modern web technologies. I’ve interned at Prabhubhakti Pvt. Ltd. and Megitech Innovision, where I refactored large codebases, improved performance, and delivered production-ready features.
+I like blending clean design, efficient code, and high-performance UI engineering—and I’m always exploring new tools and technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sanjubarsiwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeev-kumar-463590286) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjeev.kumar@iiitg.ac.in) 
